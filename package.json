@@ -2,7 +2,7 @@
   "name": "puppy-app",
   "version": "1.0.0",
   "description": "a simple node js puppy for you to have quarantine company",
-  "main": "puppy.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
