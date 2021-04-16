@@ -1,0 +1,25 @@
+{
+  "name": "puppy-app",
+  "version": "1.0.0",
+  "description": "a simple node js puppy for you to have quarantine company",
+  "main": "puppy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolineLuz/intro-into-node.git"
+  },
+  "keywords": [
+    "puppy"
+  ],
+  "author": "Caroline Nienkerke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolineLuz/intro-into-node/issues"
+  },
+  "homepage": "https://github.com/CarolineLuz/intro-into-node#readme",
+  "dependencies": {
+    "dog-breeds": "^1.0.0"
+  }
+}
