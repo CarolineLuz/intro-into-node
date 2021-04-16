@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/CarolineLuz/intro-into-node#readme",
   "dependencies": {
-    "dog-breeds": "^1.0.0"
+    "dog-breeds": "^1.0.0",
+    "dog-names": "^2.0.0",
+    "http-status-codes": "^2.1.4"
   }
 }
